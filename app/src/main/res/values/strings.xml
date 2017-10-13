@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pertemuan 3 Alert</string>
+    <string name="tap_test">Tap to test the Alert</string>
+    <string name="alert_button">Alert</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_message">Click OK to continue, or Cancel to Stop:</string>
+    <string name="ok">OK</string>
+    <string name="pressed_ok">Pressed OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="pressed_cancel">Pressed Cancel</string>
+</resources>
